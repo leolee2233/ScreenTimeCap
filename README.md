@@ -1,0 +1,2 @@
+# ScreenTimeCap
+Automated Screenshot Tool
